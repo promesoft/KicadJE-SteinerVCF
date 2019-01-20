@@ -8,6 +8,7 @@
  * 
  
 # Physical Construction
+!()[Kicad-JE-SteinerVCF-1974-TopRevA.png]
 ![](Kicad-JE-SteinerVCF-1974-TopRevA.png)
 # Features
 
