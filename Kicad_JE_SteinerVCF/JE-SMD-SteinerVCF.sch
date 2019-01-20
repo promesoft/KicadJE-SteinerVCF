@@ -46,7 +46,7 @@ P 2550 1050
 AR Path="/5C4E61A4" Ref="C?"  Part="1" 
 AR Path="/5C4E0953/5C4E61A4" Ref="C201"  Part="1" 
 F 0 "C201" H 2665 1096 50  0000 L CNN
-F 1 "C" H 2665 1005 50  0000 L CNN
+F 1 "100n" H 2665 1005 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 2588 900 50  0001 C CNN
 F 3 "~" H 2550 1050 50  0001 C CNN
 	1    2550 1050
@@ -72,7 +72,7 @@ P 3000 1050
 AR Path="/5C4E61B2" Ref="C?"  Part="1" 
 AR Path="/5C4E0953/5C4E61B2" Ref="C202"  Part="1" 
 F 0 "C202" H 3118 1096 50  0000 L CNN
-F 1 "CP" H 3118 1005 50  0000 L CNN
+F 1 "100uF" H 3118 1005 50  0000 L CNN
 F 2 "Capacitor_Tantalum_SMD:CP_EIA-7343-15_Kemet-W_Pad2.25x2.55mm_HandSolder" H 3038 900 50  0001 C CNN
 F 3 "~" H 3000 1050 50  0001 C CNN
 	1    3000 1050
@@ -270,9 +270,9 @@ Wire Wire Line
 Wire Wire Line
 	2850 6350 2850 6100
 Text GLabel 3500 6200 0    59   Input ~ 12
-HP
+HP2
 Text GLabel 2700 6350 0    59   Input ~ 12
-BP
+BP2
 Wire Wire Line
 	3500 6200 3550 6200
 Wire Wire Line
@@ -381,7 +381,7 @@ Wire Wire Line
 Wire Wire Line
 	2150 4900 2150 5050
 Text GLabel 2050 4900 0    59   Input ~ 12
-LP
+LP2
 Wire Wire Line
 	2050 4900 2150 4900
 Connection ~ 2150 4900
@@ -403,7 +403,7 @@ $EndComp
 Wire Wire Line
 	1750 6150 1800 6150
 Text GLabel 1300 6150 0    59   Input ~ 12
-CV
+CV2
 Wire Wire Line
 	1300 6150 1400 6150
 $Comp
@@ -441,7 +441,7 @@ Connection ~ 1800 6750
 Wire Wire Line
 	1800 6750 1800 6150
 Text GLabel 3550 5250 2    59   Input ~ 12
-FilterOut
+FilterOut2
 Wire Wire Line
 	3550 5650 3550 5250
 $Comp
@@ -664,11 +664,11 @@ Wire Wire Line
 	1450 2700 1450 2900
 Connection ~ 1450 2900
 Text GLabel 1650 2800 2    59   Input ~ 12
-LP
+LP2
 Text GLabel 1650 1950 2    59   Input ~ 12
-HP
+HP2
 Text GLabel 1650 2350 2    59   Input ~ 12
-BP
+BP2
 Wire Wire Line
 	1300 1950 1650 1950
 Wire Wire Line
@@ -724,9 +724,9 @@ Connection ~ 1450 3350
 Wire Wire Line
 	1450 3350 1450 3550
 Text GLabel 1650 3650 2    59   Input ~ 12
-CV
+CV2
 Text GLabel 1650 3250 2    59   Input ~ 12
-Out
+Out2
 Wire Wire Line
 	1300 3250 1650 3250
 Wire Wire Line
@@ -745,7 +745,7 @@ F 3 "" H 2950 1850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text GLabel 2550 2500 0    59   Input ~ 12
-FilterOut
+FilterOut2
 Wire Wire Line
 	2950 2500 2850 2500
 Connection ~ 2950 2500
@@ -862,7 +862,7 @@ Wire Wire Line
 Wire Wire Line
 	3600 2300 3600 2200
 Text GLabel 4400 3450 3    59   Input ~ 12
-BP
+BP2
 $Comp
 L Device:R R?
 U 1 1 5C4E63D0
@@ -946,7 +946,7 @@ Connection ~ 4400 2600
 Wire Wire Line
 	4400 2600 4400 2400
 Text GLabel 5000 2600 2    59   Input ~ 12
-Out
+Out2
 Wire Wire Line
 	4800 2600 5000 2600
 Wire Notes Line
@@ -1074,7 +1074,7 @@ P 1100 1400
 AR Path="/5C59B140" Ref="C?"  Part="1" 
 AR Path="/5C4E0953/5C59B140" Ref="C205"  Part="1" 
 F 0 "C205" V 1355 1400 50  0000 C CNN
-F 1 "CP" V 1264 1400 50  0000 C CNN
+F 1 "100uF" V 1264 1400 50  0000 C CNN
 F 2 "Capacitor_Tantalum_SMD:CP_EIA-7343-15_Kemet-W_Pad2.25x2.55mm_HandSolder" H 1138 1250 50  0001 C CNN
 F 3 "~" H 1100 1400 50  0001 C CNN
 	1    1100 1400
@@ -1264,5 +1264,21 @@ F 3 "" H 3550 750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	3550 900  3900 900 
+	3550 900  3700 900 
+$Comp
+L power:PWR_FLAG #FLG0105
+U 1 1 5C60E2C0
+P 3700 750
+F 0 "#FLG0105" H 3700 825 50  0001 C CNN
+F 1 "PWR_FLAG" H 3700 924 50  0000 C CNN
+F 2 "" H 3700 750 50  0001 C CNN
+F 3 "~" H 3700 750 50  0001 C CNN
+	1    3700 750 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3700 750  3700 900 
+Connection ~ 3700 900 
+Wire Wire Line
+	3700 900  3900 900 
 $EndSCHEMATC
