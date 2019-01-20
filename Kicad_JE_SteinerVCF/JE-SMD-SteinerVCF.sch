@@ -47,7 +47,7 @@ AR Path="/5C4E61A4" Ref="C?"  Part="1"
 AR Path="/5C4E0953/5C4E61A4" Ref="C201"  Part="1" 
 F 0 "C201" H 2665 1096 50  0000 L CNN
 F 1 "C" H 2665 1005 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 2588 900 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 2588 900 50  0001 C CNN
 F 3 "~" H 2550 1050 50  0001 C CNN
 	1    2550 1050
 	1    0    0    -1  
@@ -60,7 +60,7 @@ AR Path="/5C4E61AB" Ref="C?"  Part="1"
 AR Path="/5C4E0953/5C4E61AB" Ref="C204"  Part="1" 
 F 0 "C204" H 4015 1096 50  0000 L CNN
 F 1 "100nF" H 4015 1005 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 3938 900 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 3938 900 50  0001 C CNN
 F 3 "~" H 3900 1050 50  0001 C CNN
 	1    3900 1050
 	1    0    0    -1  
@@ -73,7 +73,7 @@ AR Path="/5C4E61B2" Ref="C?"  Part="1"
 AR Path="/5C4E0953/5C4E61B2" Ref="C202"  Part="1" 
 F 0 "C202" H 3118 1096 50  0000 L CNN
 F 1 "CP" H 3118 1005 50  0000 L CNN
-F 2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" H 3038 900 50  0001 C CNN
+F 2 "Capacitor_Tantalum_SMD:CP_EIA-7343-15_Kemet-W_Pad2.25x2.55mm_HandSolder" H 3038 900 50  0001 C CNN
 F 3 "~" H 3000 1050 50  0001 C CNN
 	1    3000 1050
 	1    0    0    -1  
@@ -206,7 +206,7 @@ AR Path="/5C4E624E" Ref="C?"  Part="1"
 AR Path="/5C4E0953/5C4E624E" Ref="C209"  Part="1" 
 F 0 "C209" H 3665 5996 50  0000 L CNN
 F 1 "4n7" H 3665 5905 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 3588 5800 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 3588 5800 50  0001 C CNN
 F 3 "~" H 3550 5950 50  0001 C CNN
 	1    3550 5950
 	1    0    0    -1  
@@ -219,7 +219,7 @@ AR Path="/5C4E6255" Ref="C?"  Part="1"
 AR Path="/5C4E0953/5C4E6255" Ref="C208"  Part="1" 
 F 0 "C208" H 2965 5996 50  0000 L CNN
 F 1 "4n7" H 2965 5905 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 2888 5800 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 2888 5800 50  0001 C CNN
 F 3 "~" H 2850 5950 50  0001 C CNN
 	1    2850 5950
 	1    0    0    -1  
@@ -256,7 +256,7 @@ AR Path="/5C4E6277" Ref="C?"  Part="1"
 AR Path="/5C4E0953/5C4E6277" Ref="C210"  Part="1" 
 F 0 "C210" H 4315 5996 50  0000 L CNN
 F 1 "4n7" H 4315 5905 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 4238 5800 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 4238 5800 50  0001 C CNN
 F 3 "~" H 4200 5950 50  0001 C CNN
 	1    4200 5950
 	1    0    0    -1  
@@ -534,7 +534,7 @@ AR Path="/5C4E630B" Ref="RV?"  Part="1"
 AR Path="/5C4E0953/5C4E630B" Ref="RV202"  Part="1" 
 F 0 "RV202" V 1393 5750 50  0000 C CNN
 F 1 "500k" V 1484 5750 50  0000 C CNN
-F 2 "Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical" H 1600 5750 50  0001 C CNN
+F 2 "Potentiometer_THT:Potentiometer_Piher_PT-6-V_Vertical" H 1600 5750 50  0001 C CNN
 F 3 "~" H 1600 5750 50  0001 C CNN
 	1    1600 5750
 	0    1    1    0   
@@ -888,7 +888,7 @@ AR Path="/5C4E63D9" Ref="RV?"  Part="1"
 AR Path="/5C4E0953/5C4E63D9" Ref="RV203"  Part="1" 
 F 0 "RV203" H 1130 6796 50  0000 R CNN
 F 1 "25k" H 1130 6705 50  0000 R CNN
-F 2 "Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical" H 1200 6750 50  0001 C CNN
+F 2 "Potentiometer_THT:Potentiometer_Piher_PT-6-V_Vertical" H 1200 6750 50  0001 C CNN
 F 3 "~" H 1200 6750 50  0001 C CNN
 	1    1200 6750
 	1    0    0    -1  
@@ -922,7 +922,7 @@ AR Path="/5C4E63EC" Ref="C?"  Part="1"
 AR Path="/5C4E0953/5C4E63EC" Ref="C206"  Part="1" 
 F 0 "C206" V 2448 2500 50  0000 C CNN
 F 1 "1u" V 2539 2500 50  0000 C CNN
-F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 2738 2350 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 2738 2350 50  0001 C CNN
 F 3 "~" H 2700 2500 50  0001 C CNN
 	1    2700 2500
 	0    1    1    0   
@@ -935,7 +935,7 @@ AR Path="/5C4E63F3" Ref="C?"  Part="1"
 AR Path="/5C4E0953/5C4E63F3" Ref="C207"  Part="1" 
 F 0 "C207" V 4905 2600 50  0000 C CNN
 F 1 "10u" V 4814 2600 50  0000 C CNN
-F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 4688 2450 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 4688 2450 50  0001 C CNN
 F 3 "~" H 4650 2600 50  0001 C CNN
 	1    4650 2600
 	0    -1   -1   0   
@@ -1075,7 +1075,7 @@ AR Path="/5C59B140" Ref="C?"  Part="1"
 AR Path="/5C4E0953/5C59B140" Ref="C205"  Part="1" 
 F 0 "C205" V 1355 1400 50  0000 C CNN
 F 1 "CP" V 1264 1400 50  0000 C CNN
-F 2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" H 1138 1250 50  0001 C CNN
+F 2 "Capacitor_Tantalum_SMD:CP_EIA-7343-15_Kemet-W_Pad2.25x2.55mm_HandSolder" H 1138 1250 50  0001 C CNN
 F 3 "~" H 1100 1400 50  0001 C CNN
 	1    1100 1400
 	0    -1   -1   0   
