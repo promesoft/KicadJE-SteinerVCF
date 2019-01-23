@@ -10,5 +10,11 @@
 # Physical Construction
 ![](Kicad-JE-SteinerVCF-1974-TopRevA.png)
 # Features
+## Steiner VCF 1974 THT
+
+## Steiner VCF 1974 SMD
+Same schematic - different components - half the size
+
+## VCO ICL 8083
 
 # Details
