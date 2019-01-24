@@ -1,5 +1,8 @@
 # Johansen Engineering Steiner VCF
 
+# Purpose
+Test some of the original designs for inspiration.
+
 # Status - Init
 ## Errata
  * 
