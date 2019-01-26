@@ -14,7 +14,7 @@ Test some of the original designs for inspiration and reference.
 ![](Kicad-JE-SteinerVCF-1974-TopRevA3.png)
 # Features
 ## Steiner VCF 1974 THT
-
+![](Steiner1974.png)
 ## Steiner VCF 1974 SMD
 Same schematic - different components - half the size
 
