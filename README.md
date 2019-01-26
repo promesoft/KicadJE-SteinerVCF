@@ -3,7 +3,7 @@
 # Purpose
 Test some of the original designs for inspiration and reference.
 
-# Status - Init
+# Status - Gerber and BOM created
 ## Errata
  * 
  
