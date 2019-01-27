@@ -11,7 +11,7 @@ Test some of the original designs for inspiration and reference.
  * 
  
 # Physical Construction
-![](Kicad-JE-SteinerVCF-1974-TopRevA3.png)
+![](Kicad-JE-SteinerVCF-1974-TopRevA4.png)
 # Features
 
 # Inspirational sources:
