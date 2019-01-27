@@ -3,7 +3,7 @@
 # Purpose
 Test some of the original designs for inspiration and reference.
 
-# Status - Gerber and BOM created
+# Status - Ordered at JLC
 ## Errata
  * 
  
