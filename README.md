@@ -3,7 +3,7 @@
 # Purpose
 Test some of the original designs for inspiration and reference.
 
-# Status - Init
+# Status - Gerber and BOM created
 ## Errata
  * 
  
@@ -13,6 +13,8 @@ Test some of the original designs for inspiration and reference.
 # Physical Construction
 ![](Kicad-JE-SteinerVCF-1974-TopRevA3.png)
 # Features
+
+# Inspirational sources:
 ## Steiner VCF 1974 THT
 ![](Steiner1974.png)
 ## Steiner VCF 1974 SMD
