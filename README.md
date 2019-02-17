@@ -3,9 +3,10 @@
 # Purpose
 Test some of the original designs for inspiration and reference.
 
-# Status - Ordered at JLC
+# Status - Preliminary tests
 ## Errata
- * 
+### Errata - THT VCF
+* C111 reverse polarity
  
 ## Issues and Notes
  * 
