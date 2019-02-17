@@ -7,6 +7,7 @@ Test some of the original designs for inspiration and reference.
 ## Errata
 ### Errata - THT VCF
 * C111 reverse polarity
+* R102 should go from +10v to connection between R103 and R106 - and +10v sould not go to Q102 base - Critical
  
 ## Issues and Notes
  * 
