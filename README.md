@@ -11,6 +11,8 @@ Test some of the original designs for inspiration and reference.
  
 ## Issues and Notes
  * The filter needs adjustments and the feedback is not stable. a 56k from CV to base of Q102 helps a bit.
+ * Input circuit for CV needs rework
+ * Input series resistor and capacitor could be a good addon for the filter inputs
  
 # Physical Construction
 ![](Kicad-JE-SteinerVCF-1974-TopRevA4.png)
