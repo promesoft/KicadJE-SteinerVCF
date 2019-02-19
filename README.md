@@ -3,12 +3,16 @@
 # Purpose
 Test some of the original designs for inspiration and reference.
 
-# Status - Ordered at JLC
+# Status - Preliminary tests
 ## Errata
- * 
+### Errata - THT VCF
+* C111 reverse polarity
+* R102 should go from +10v to connection between R103 and R106 - and +10v sould not go to Q102 base - Critical
  
 ## Issues and Notes
- * 
+ * The filter needs adjustments and the feedback is not stable. a 56k from CV to base of Q102 helps a bit.
+ * Input circuit for CV needs rework
+ * Input series resistor and capacitor could be a good addon for the filter inputs
  
 # Physical Construction
 ![](Kicad-JE-SteinerVCF-1974-TopRevA4.png)
