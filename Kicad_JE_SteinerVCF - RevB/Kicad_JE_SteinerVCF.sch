@@ -1114,11 +1114,7 @@ $EndSheet
 Text Notes 6950 1750 0    98   ~ 20
 JE-VCO1
 Wire Wire Line
-	4350 2425 4350 2550
-Wire Wire Line
 	4250 2550 4350 2550
-Wire Wire Line
-	4350 2550 4350 3050
 Text GLabel 3675 3050 0    59   Input ~ 12
 CV
 $Comp
@@ -1136,7 +1132,6 @@ Wire Wire Line
 	4150 3050 4350 3050
 Wire Wire Line
 	3675 3050 3850 3050
-Connection ~ 4350 2550
 Wire Wire Line
 	4350 2550 4650 2550
 Wire Wire Line
@@ -1600,9 +1595,9 @@ Wire Wire Line
 	2775 1875 2775 1800
 Connection ~ 2375 1875
 Wire Wire Line
-	2375 1100 2875 1100
+	2375 1100 2500 1100
 Wire Wire Line
-	2575 2750 3100 2750
+	2575 2750 2700 2750
 Connection ~ 3200 6150
 Wire Wire Line
 	2950 5525 2950 6150
@@ -1642,7 +1637,7 @@ L Device:R R?
 U 1 1 5CA8FA77
 P 1975 1650
 F 0 "R?" V 1768 1650 50  0000 C CNN
-F 1 "1k" V 1859 1650 50  0000 C CNN
+F 1 "10k" V 1859 1650 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" V 1905 1650 50  0001 C CNN
 F 3 "~" H 1975 1650 50  0001 C CNN
 	1    1975 1650
@@ -1655,4 +1650,32 @@ Wire Wire Line
 	1975 1875 2375 1875
 Wire Wire Line
 	1975 1500 1975 1300
+$Comp
+L Device:R R?
+U 1 1 5CAAB3D3
+P 2850 2750
+F 0 "R?" V 2643 2750 50  0000 C CNN
+F 1 "1k" V 2734 2750 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" V 2780 2750 50  0001 C CNN
+F 3 "~" H 2850 2750 50  0001 C CNN
+	1    2850 2750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3000 2750 3100 2750
+$Comp
+L Device:R R?
+U 1 1 5CAAB50A
+P 2650 1100
+F 0 "R?" V 2443 1100 50  0000 C CNN
+F 1 "1k" V 2534 1100 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" V 2580 1100 50  0001 C CNN
+F 3 "~" H 2650 1100 50  0001 C CNN
+	1    2650 1100
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2800 1100 2875 1100
+Wire Wire Line
+	4350 2425 4350 3050
 $EndSCHEMATC
