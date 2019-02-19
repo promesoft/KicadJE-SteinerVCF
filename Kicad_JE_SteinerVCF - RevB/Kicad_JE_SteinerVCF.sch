@@ -520,7 +520,7 @@ F 3 "~" H 2700 6150 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 Text GLabel 1375 5925 0    59   Input ~ 12
-CV
+CV1
 $Comp
 L Device:R R117
 U 1 1 5C44237E
@@ -712,7 +712,7 @@ Connection ~ 1200 3500
 Wire Wire Line
 	1200 3500 1200 3600
 Text GLabel 1400 3800 2    59   Input ~ 12
-CV
+CV2
 Text GLabel 1400 3400 2    59   Input ~ 12
 Out
 Wire Wire Line
@@ -1114,24 +1114,22 @@ $EndSheet
 Text Notes 6950 1750 0    98   ~ 20
 JE-VCO1
 Wire Wire Line
-	4250 2550 4350 2550
-Text GLabel 3675 3050 0    59   Input ~ 12
+	4250 2550 4300 2550
+Text GLabel 3750 2750 0    59   Input ~ 12
 CV
 $Comp
 L Device:R R?
 U 1 1 5C6D5FD8
-P 4000 3050
-F 0 "R?" H 3930 3004 50  0000 R CNN
-F 1 "82k" H 3930 3095 50  0000 R CNN
-F 2 "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" V 3930 3050 50  0001 C CNN
-F 3 "~" H 4000 3050 50  0001 C CNN
-	1    4000 3050
+P 4075 2750
+F 0 "R?" H 4005 2704 50  0000 R CNN
+F 1 "82k" H 4005 2795 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" V 4005 2750 50  0001 C CNN
+F 3 "~" H 4075 2750 50  0001 C CNN
+	1    4075 2750
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	4150 3050 4350 3050
-Wire Wire Line
-	3675 3050 3850 3050
+	3750 2750 3925 2750
 Wire Wire Line
 	4350 2550 4650 2550
 Wire Wire Line
@@ -1412,7 +1410,7 @@ Connection ~ 1200 4300
 Wire Wire Line
 	1200 4300 1200 4550
 Text GLabel 1400 4200 2    59   Input ~ 12
-CV2
+CV1
 Wire Wire Line
 	1050 4200 1400 4200
 Wire Wire Line
@@ -1678,4 +1676,15 @@ Wire Wire Line
 	2800 1100 2875 1100
 Wire Wire Line
 	4350 2425 4350 3050
+Wire Wire Line
+	4225 2750 4300 2750
+Wire Wire Line
+	4300 2750 4300 2550
+Connection ~ 4300 2550
+Wire Wire Line
+	4300 2550 4350 2550
+Text GLabel 3200 5975 1    59   Input ~ 12
+CV
+Wire Wire Line
+	3200 5975 3200 6150
 $EndSCHEMATC
