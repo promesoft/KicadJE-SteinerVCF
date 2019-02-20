@@ -25,6 +25,7 @@ Test some of the original designs for inspiration and reference.
 | | Trimmers | OK |
 | | Knobs | OK |
 | Initial Product Test | VCO CV from LFO | OK |
+| | VCO Vactrol CV from LFO |  |
 
 ## Secondary validation
 | Test  | Detail | Status |
