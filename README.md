@@ -59,7 +59,7 @@ Test some of the original designs for inspiration and reference.
  
  
 # Physical Construction
-![](DSC_2371.JPG)
+![](20190220VCO_VCF.JPG)
 
 ![](Kicad-JE-SteinerVCF-1974-TopRevA4.png)
 # Features
