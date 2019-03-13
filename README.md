@@ -56,6 +56,8 @@ Test some of the original designs for inspiration and reference.
 
 ### VCO
  * Tweak values for better frequency range
+ * Op Amp can get hot
+ * Draws more power if nothing is inserted into the Square output?
  
  
 # Physical Construction
