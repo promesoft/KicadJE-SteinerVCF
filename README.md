@@ -30,11 +30,12 @@ Test some of the original designs for inspiration and reference.
 ## Secondary validation
 | Test  | Detail | Status |
 | ------------- | ------------- |------------- |
-| Product Test |  | |
-| Product Test |  | |
-| Quality |  | |
-| Quality |  | |
-| Long Term Product Test | |  |
+| Product Test | VCF | |
+| Product Test | VCO | Works nicely - frequency is a bit high |
+| Quality | VCF | |
+| Quality | VCO | |
+| Long Term Product Test | VCO | OpAmp gets hot - esp if no output is conn to the square |
+| Power Draw | VCO | 50-120mA depending on output...
 
 ## Errata
 ### Errata - THT VCF
