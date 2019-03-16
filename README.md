@@ -72,7 +72,7 @@ Test some of the original designs for inspiration and reference.
 ## SMD VCF Schematic
 ![](SteinerVCF_SMD.png)
 ## VCO Schematic
-![](VCO_ICL8083 Schematic.png)
+![](VCO_ICL8083_Schematic.png)
 # Inspirational sources:
 ## Steiner VCF 1974 THT
 ![](Steiner1974.png)
