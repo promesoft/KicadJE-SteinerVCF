@@ -46,6 +46,7 @@ Test some of the original designs for inspiration and reference.
 ### Errata - VCO
  * 470K values not correct for all resistors
  * 0R values not correct - fixed in RevB
+ * Outputs should not be shorted to GND when not connected
  
 ## Issues and Notes
 ### VCF THT/SMD
