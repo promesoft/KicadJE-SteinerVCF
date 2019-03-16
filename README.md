@@ -69,6 +69,10 @@ Test some of the original designs for inspiration and reference.
 ![](Kicad-JE-SteinerVCF-1974-TopRevA4.png)
 # Features
 
+## SMD VCF Schematic
+![](SteinerVCF_SMD.png)
+## VCO Schematic
+
 # Inspirational sources:
 ## Steiner VCF 1974 THT
 ![](Steiner1974.png)
