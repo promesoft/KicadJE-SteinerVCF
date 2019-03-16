@@ -63,6 +63,7 @@ Test some of the original designs for inspiration and reference.
  
  
 # Physical Construction
+![](VCO_8083_2019_03_16.JPG)
 ![](20190220VCO_VCF.JPG)
 
 ![](Kicad-JE-SteinerVCF-1974-TopRevA4.png)
