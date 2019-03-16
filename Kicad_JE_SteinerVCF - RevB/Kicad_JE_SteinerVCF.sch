@@ -6,8 +6,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 3
 Title "JE-Steiner-VCF"
-Date "2019-01-19"
-Rev "RevA"
+Date "2019-03-16"
+Rev "RevB"
 Comp "Johansen Engineering"
 Comment1 ""
 Comment2 ""

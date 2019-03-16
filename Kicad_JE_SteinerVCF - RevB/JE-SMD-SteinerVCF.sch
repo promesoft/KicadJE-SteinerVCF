@@ -5,10 +5,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 2 3
-Title "Steiner VCF - SMD"
-Date "2019-01-19"
-Rev "RevA"
-Comp ""
+Title "JE-Steiner-VCF"
+Date "2019-03-16"
+Rev "RevB"
+Comp "Johansen Engineering"
 Comment1 ""
 Comment2 ""
 Comment3 ""

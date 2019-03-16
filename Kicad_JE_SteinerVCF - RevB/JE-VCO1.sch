@@ -5,9 +5,9 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 3 3
-Title "JE-VCO1 (Based on Thomas Henry)"
-Date "2019-01-20"
-Rev "RevA"
+Title "JE-Steiner-VCF"
+Date "2019-03-16"
+Rev "RevB"
 Comp "Johansen Engineering"
 Comment1 ""
 Comment2 ""
