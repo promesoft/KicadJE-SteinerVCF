@@ -812,7 +812,7 @@ AR Path="/5C4E63D9" Ref="RV?"  Part="1"
 AR Path="/5C4E0953/5C4E63D9" Ref="RV203"  Part="1" 
 F 0 "RV203" H 1205 6796 50  0000 R CNN
 F 1 "100k" H 1205 6705 50  0000 R CNN
-F 2 "AJ-Dropbox-Kicad:AlpsRK09K" H 1275 6750 50  0001 C CNN
+F 2 "AJ-Dropbox-Kicad:Potentiometer_China_RK09_Single_Vertical_AJ" H 1275 6750 50  0001 C CNN
 F 3 "~" H 1275 6750 50  0001 C CNN
 	1    1275 6750
 	1    0    0    -1  
@@ -1220,7 +1220,7 @@ AR Path="/5CB1D07D" Ref="RV?"  Part="1"
 AR Path="/5C4E0953/5CB1D07D" Ref="RV202"  Part="1" 
 F 0 "RV202" H 1105 5846 50  0000 R CNN
 F 1 "100k" H 1105 5755 50  0000 R CNN
-F 2 "AJ-Dropbox-Kicad:AlpsRK09K" H 1175 5800 50  0001 C CNN
+F 2 "AJ-Dropbox-Kicad:Potentiometer_China_RK09_Single_Vertical_AJ" H 1175 5800 50  0001 C CNN
 F 3 "~" H 1175 5800 50  0001 C CNN
 	1    1175 5800
 	1    0    0    -1  
@@ -1426,8 +1426,8 @@ L Device:C C?
 U 1 1 5DF41AC2
 P 3700 7150
 AR Path="/5DF41AC2" Ref="C?"  Part="1" 
-AR Path="/5C4E0953/5DF41AC2" Ref="C?"  Part="1" 
-F 0 "C?" V 3448 7150 50  0000 C CNN
+AR Path="/5C4E0953/5DF41AC2" Ref="C216"  Part="1" 
+F 0 "C216" V 3448 7150 50  0000 C CNN
 F 1 "22u" V 3539 7150 50  0000 C CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 3738 7000 50  0001 C CNN
 F 3 "~" H 3700 7150 50  0001 C CNN

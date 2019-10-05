@@ -1405,7 +1405,7 @@ P 3425 7150
 AR Path="/5DF2314D" Ref="C?"  Part="1" 
 AR Path="/5C4E0953/5DF2314D" Ref="C215"  Part="1" 
 F 0 "C215" V 3173 7150 50  0000 C CNN
-F 1 "50u" V 3264 7150 50  0000 C CNN
+F 1 "22u" V 3264 7150 50  0000 C CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 3463 7000 50  0001 C CNN
 F 3 "~" H 3425 7150 50  0001 C CNN
 	1    3425 7150
@@ -1421,4 +1421,25 @@ Wire Wire Line
 Connection ~ 3250 7300
 Wire Wire Line
 	3250 7300 3425 7300
+$Comp
+L Device:C C?
+U 1 1 5DF41AC2
+P 3700 7150
+AR Path="/5DF41AC2" Ref="C?"  Part="1" 
+AR Path="/5C4E0953/5DF41AC2" Ref="C?"  Part="1" 
+F 0 "C?" V 3448 7150 50  0000 C CNN
+F 1 "22u" V 3539 7150 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 3738 7000 50  0001 C CNN
+F 3 "~" H 3700 7150 50  0001 C CNN
+	1    3700 7150
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	3700 7000 3425 7000
+Connection ~ 3425 7000
+Wire Wire Line
+	3700 7300 3425 7300
+Connection ~ 3425 7300
+Wire Wire Line
+	3425 7300 3250 7300
 $EndSCHEMATC
