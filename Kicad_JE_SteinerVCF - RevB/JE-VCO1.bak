@@ -5,7 +5,7 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 3 3
-Title "JE-VCO1 (Based on Thomas Henry)"
+Title "JE-Steiner-VCF"
 Date "2019-03-16"
 Rev "RevB"
 Comp "Johansen Engineering"
@@ -61,7 +61,7 @@ AR Path="/5C61832D" Ref="C?"  Part="1"
 AR Path="/5C618010/5C61832D" Ref="C302"  Part="1" 
 F 0 "C302" H 3093 896 50  0000 L CNN
 F 1 "100u" H 3093 805 50  0000 L CNN
-F 2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" H 3013 700 50  0001 C CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 3013 700 50  0001 C CNN
 F 3 "~" H 2975 850 50  0001 C CNN
 	1    2975 850 
 	1    0    0    -1  
@@ -174,7 +174,7 @@ AR Path="/5C618394" Ref="C?"  Part="1"
 AR Path="/5C618010/5C618394" Ref="C304"  Part="1" 
 F 0 "C304" H 3093 1196 50  0000 L CNN
 F 1 "100u" H 3093 1105 50  0000 L CNN
-F 2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" H 3013 1000 50  0001 C CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric" H 3013 1000 50  0001 C CNN
 F 3 "~" H 2975 1150 50  0001 C CNN
 	1    2975 1150
 	1    0    0    -1  
@@ -537,7 +537,7 @@ U 1 1 5C645853
 P 7875 2150
 F 0 "RV301" H 7805 2196 50  0000 R CNN
 F 1 "50k Sin" H 7805 2105 50  0000 R CNN
-F 2 "Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical" H 7875 2150 50  0001 C CNN
+F 2 "AJ:Potentiometer_China_RK09_Single_Vertical_AJ" H 7875 2150 50  0001 C CNN
 F 3 "~" H 7875 2150 50  0001 C CNN
 	1    7875 2150
 	1    0    0    -1  
@@ -657,7 +657,7 @@ U 1 1 5C64A8EA
 P 5700 2250
 F 0 "RV302" H 5630 2296 50  0000 R CNN
 F 1 "50k Tri" H 5630 2205 50  0000 R CNN
-F 2 "Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical" H 5700 2250 50  0001 C CNN
+F 2 "AJ:Potentiometer_China_RK09_Single_Vertical_AJ" H 5700 2250 50  0001 C CNN
 F 3 "~" H 5700 2250 50  0001 C CNN
 	1    5700 2250
 	1    0    0    -1  
@@ -755,7 +755,7 @@ U 1 1 5C6514DE
 P 10575 3700
 F 0 "RV305" H 10900 3450 50  0000 R CNN
 F 1 "50k SQ" H 10950 3525 50  0000 R CNN
-F 2 "Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical" H 10575 3700 50  0001 C CNN
+F 2 "AJ:Potentiometer_China_RK09_Single_Vertical_AJ" H 10575 3700 50  0001 C CNN
 F 3 "~" H 10575 3700 50  0001 C CNN
 	1    10575 3700
 	1    0    0    -1  
@@ -1091,7 +1091,7 @@ U 1 1 5C7182E2
 P 5900 5575
 F 0 "RV311" V 5786 5575 50  0000 C CNN
 F 1 "100k fine" V 5695 5575 50  0000 C CNN
-F 2 "Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical" H 5900 5575 50  0001 C CNN
+F 2 "AJ:Potentiometer_China_RK09_Single_Vertical_AJ" H 5900 5575 50  0001 C CNN
 F 3 "~" H 5900 5575 50  0001 C CNN
 	1    5900 5575
 	0    -1   -1   0   
@@ -1152,7 +1152,7 @@ U 1 1 5C740154
 P 4950 5575
 F 0 "RV310" V 4836 5575 50  0000 C CNN
 F 1 "100k Coarse" V 4745 5575 50  0000 C CNN
-F 2 "Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical" H 4950 5575 50  0001 C CNN
+F 2 "AJ:Potentiometer_China_RK09_Single_Vertical_AJ" H 4950 5575 50  0001 C CNN
 F 3 "~" H 4950 5575 50  0001 C CNN
 	1    4950 5575
 	0    -1   -1   0   
@@ -1217,7 +1217,7 @@ U 1 1 5C753AE8
 P 3075 4850
 F 0 "RV309" H 3005 4896 50  0000 R CNN
 F 1 "100k CV" H 3005 4805 50  0000 R CNN
-F 2 "Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical" H 3075 4850 50  0001 C CNN
+F 2 "AJ:Potentiometer_China_RK09_Single_Vertical_AJ" H 3075 4850 50  0001 C CNN
 F 3 "~" H 3075 4850 50  0001 C CNN
 	1    3075 4850
 	1    0    0    -1  
@@ -1255,7 +1255,7 @@ U 1 1 5C768E01
 P 7450 4850
 F 0 "D302" H 7450 5067 50  0000 C CNN
 F 1 "MMSD4148" H 7450 4976 50  0000 C CNN
-F 2 "Diode_SMD:D_SOD-123" H 7450 4675 50  0001 C CNN
+F 2 "Diode_SMD:D_MiniMELF" H 7450 4675 50  0001 C CNN
 F 3 "https://www.onsemi.com/pub/Collateral/MMSD4148T1-D.PDF" H 7450 4850 50  0001 C CNN
 	1    7450 4850
 	1    0    0    -1  
@@ -1305,7 +1305,7 @@ U 1 1 5C7EAA26
 P 8450 2825
 F 0 "RV303" H 8380 2779 50  0000 R CNN
 F 1 "100k Duty" H 8380 2870 50  0000 R CNN
-F 2 "Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical" H 8450 2825 50  0001 C CNN
+F 2 "AJ:Potentiometer_China_RK09_Single_Vertical_AJ" H 8450 2825 50  0001 C CNN
 F 3 "~" H 8450 2825 50  0001 C CNN
 	1    8450 2825
 	-1   0    0    1   
@@ -1380,7 +1380,7 @@ U 1 1 5C9D37FF
 P 3775 5100
 F 0 "RV307" H 3705 5146 50  0000 R CNN
 F 1 "100k Glide" H 3705 5055 50  0000 R CNN
-F 2 "Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical" H 3775 5100 50  0001 C CNN
+F 2 "AJ:Potentiometer_China_RK09_Single_Vertical_AJ" H 3775 5100 50  0001 C CNN
 F 3 "~" H 3775 5100 50  0001 C CNN
 	1    3775 5100
 	1    0    0    -1  

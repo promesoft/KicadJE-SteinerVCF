@@ -6,8 +6,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 3
 Title "JE-Steiner-VCF"
-Date "2019-01-19"
-Rev "RevA"
+Date "2019-03-16"
+Rev "RevB"
 Comp "Johansen Engineering"
 Comment1 ""
 Comment2 ""
@@ -570,7 +570,7 @@ U 1 1 5C447540
 P 5600 3000
 F 0 "RV101" V 5393 3000 50  0000 C CNN
 F 1 "5k" V 5484 3000 50  0000 C CNN
-F 2 "Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical" H 5600 3000 50  0001 C CNN
+F 2 "AJ:Potentiometer_China_RK09_Single_Vertical_AJ" H 5600 3000 50  0001 C CNN
 F 3 "~" H 5600 3000 50  0001 C CNN
 	1    5600 3000
 	0    1    1    0   
@@ -864,7 +864,7 @@ U 1 1 5C4B55D5
 P 2300 7075
 F 0 "RV103" H 2230 7121 50  0000 R CNN
 F 1 "100k" H 2230 7030 50  0000 R CNN
-F 2 "Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical" H 2300 7075 50  0001 C CNN
+F 2 "AJ:Potentiometer_China_RK09_Single_Vertical_AJ" H 2300 7075 50  0001 C CNN
 F 3 "~" H 2300 7075 50  0001 C CNN
 	1    2300 7075
 	1    0    0    -1  
@@ -1157,7 +1157,7 @@ U 1 1 5C7498F4
 P 2150 6150
 F 0 "RV104" V 1943 6150 50  0000 C CNN
 F 1 "100k" V 2034 6150 50  0000 C CNN
-F 2 "Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical" H 2150 6150 50  0001 C CNN
+F 2 "AJ:Potentiometer_China_RK09_Single_Vertical_AJ" H 2150 6150 50  0001 C CNN
 F 3 "~" H 2150 6150 50  0001 C CNN
 	1    2150 6150
 	1    0    0    -1  
@@ -1217,7 +1217,7 @@ U 1 1 5C77D1F2
 P 2150 5525
 F 0 "RV102" V 1943 5525 50  0000 C CNN
 F 1 "100k" V 2034 5525 50  0000 C CNN
-F 2 "Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical" H 2150 5525 50  0001 C CNN
+F 2 "AJ:Potentiometer_China_RK09_Single_Vertical_AJ" H 2150 5525 50  0001 C CNN
 F 3 "~" H 2150 5525 50  0001 C CNN
 	1    2150 5525
 	1    0    0    -1  
