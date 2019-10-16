@@ -1,3 +1,42 @@
+# Johansen Engineering Steiner VCF RevB
+
+# Status - PCB  in the mail
+## Initial 
+| Stage  | Detail | Status |
+| ------------- | ------------- | ------------- |
+| create material  | sch/pcb | OK  |
+| | gerber | OK |
+| production  |   | Ordered |
+|  | produced | OK |
+|  | delivered | in the mail |
+## Preliminary validation
+| Test  | Detail | Status |
+| ------------- | ------------- | ------------- |
+| Initial Inspection | |  |
+| Initial Technical Test |  |  |
+| Initial Product Test |  |  |
+
+## Secondary validation
+| Test  | Detail | Status |
+| ------------- | ------------- |------------- |
+| Product Test |  | |
+| Product Test |  |  |
+| Quality | | |
+| Quality | | |
+| Long Term Product Test |  |  |
+| Power Draw |  | 
+
+## Errata
+### Errata -
+
+## Issues and Notes
+### 
+
+# Pictures
+
+
+# Inspiration
+
 # Johansen Engineering Steiner VCF
 
 # Purpose
