@@ -33,7 +33,7 @@
 ### 
 
 # Pictures
-
+![](20200319_VCO_VCF.JPG)
 
 # Inspiration
 
