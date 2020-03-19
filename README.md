@@ -6,7 +6,7 @@
 | ------------- | ------------- | ------------- |
 | create material  | sch/pcb | OK  |
 | | gerber | OK |
-| production  |   | Ordered |
+| production  |   | OK |
 |  | produced | OK |
 |  | delivered | Delivered |
 ## Preliminary validation
