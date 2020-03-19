@@ -1,6 +1,6 @@
 # Johansen Engineering Steiner VCF RevB
 
-# Status - PCB  in the mail
+# Status - PCB  Delivered
 ## Initial 
 | Stage  | Detail | Status |
 | ------------- | ------------- | ------------- |
@@ -8,11 +8,11 @@
 | | gerber | OK |
 | production  |   | Ordered |
 |  | produced | OK |
-|  | delivered | in the mail |
+|  | delivered | Delivered |
 ## Preliminary validation
 | Test  | Detail | Status |
 | ------------- | ------------- | ------------- |
-| Initial Inspection | |  |
+| Initial Inspection | | OK - bottom looks empty w/o gnd fill |
 | Initial Technical Test |  |  |
 | Initial Product Test |  |  |
 
