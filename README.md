@@ -13,7 +13,9 @@
 | Test  | Detail | Status |
 | ------------- | ------------- | ------------- |
 | Initial Inspection | | OK - bottom looks empty w/o gnd fill |
-| Initial Technical Test |  |  |
+| Initial Technical Test | VCO | One pot gets -12v on chassis |
+| Initial Technical Test | VCF | One pot gets -12v on chassis |
+| Initial Technical Test | VCF SMD |  |
 | Initial Product Test |  |  |
 
 ## Secondary validation
@@ -27,7 +29,13 @@
 | Power Draw |  | 
 
 ## Errata
-### Errata -
+### Errata - VCO
+Due to footprint one of the pots gets -12v on chassis
+
+### Errata - VCF
+Due to footprint one of the pots gets -12v on chassis
+
+### Errata - VCF SMD
 
 ## Issues and Notes
 ### 
