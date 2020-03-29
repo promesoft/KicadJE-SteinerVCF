@@ -36,7 +36,9 @@
 Due to footprint one of the pots gets -12v on chassis
 
 ### Errata - VCF
-Due to footprint one of the pots gets -12v on chassis
+* Due to footprint one of the pots gets -12v on chassis
+
+* R127 - DNP (Do not populate)
 
 ### Errata - VCF SMD
 
