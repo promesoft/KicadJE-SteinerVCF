@@ -47,7 +47,7 @@ Due to footprint one of the pots gets -12v on chassis
 ![](20200319_VCO_VCF.JPG)
 
 # Schematic
-
+![](SteinerVCF_RevB.png)
 # Layout
 
 ![](Kicad-JE-SteinerVCF-1974-TopRevB.png)
