@@ -47,7 +47,8 @@ Due to footprint one of the pots gets -12v on chassis
 ### Errata - VCF SMD
 
 ## Issues and Notes
-### 
+### VCF
+Very difficult to mount as footprints are getting over soldering points in many places
 
 # Pictures
 ![](20200319_VCO_VCF.JPG)
