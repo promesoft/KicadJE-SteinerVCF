@@ -40,6 +40,10 @@ Due to footprint one of the pots gets -12v on chassis
 
 * R127 - DNP (Do not populate)
 
+* R119 swap with 220nF-1uF to ac couple input stage
+
+* R126 swap with 1uF to ac couple input stage
+
 ### Errata - VCF SMD
 
 ## Issues and Notes
