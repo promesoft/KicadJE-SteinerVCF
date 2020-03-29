@@ -46,6 +46,12 @@ Due to footprint one of the pots gets -12v on chassis
 # Pictures
 ![](20200319_VCO_VCF.JPG)
 
+# Schematic
+
+# Layout
+
+![](Kicad-JE-SteinerVCF-1974-TopRevB.png)
+![](Kicad-JE-SteinerVCF-1974-BottomRevB.png)
 # Inspiration
 
 # Johansen Engineering Steiner VCF
