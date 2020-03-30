@@ -15,9 +15,13 @@
 | Initial Inspection | VCO | OK - bottom looks empty w/o gnd fill |
 | Initial Inspection | VCF | OK - bottom looks empty w/o gnd fill |
 | | | Very difficult to mount as footprints are getting over soldering points in many places|
+| | | BP in the bottom |
+| | | HP in the middle |
+| | | LP on top |
 | Initial Inspection | VCF SMD | OK - bottom looks empty w/o gnd fill |
 | Initial Technical Test | VCO | One pot gets -12v on chassis |
 | Initial Technical Test | VCF | One pot gets -12v on chassis |
+| | | Uncertain if the pot is |
 | Initial Technical Test | VCF SMD |  |
 | Initial Product Test |  |  |
 
