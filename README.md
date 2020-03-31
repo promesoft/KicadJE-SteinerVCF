@@ -21,7 +21,9 @@
 | Initial Inspection | VCF SMD | OK - bottom looks empty w/o gnd fill |
 | Initial Technical Test | VCO | One pot gets -12v on chassis |
 | Initial Technical Test | VCF | One pot gets -12v on chassis |
-| | | Uncertain if the pot is |
+| | | CV1 and CV2 works fine |
+| | | Q is doing something |
+| | | Uncertain if the freq pot is right |
 | Initial Technical Test | VCF SMD |  |
 | Initial Product Test |  |  |
 
