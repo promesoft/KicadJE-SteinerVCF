@@ -61,7 +61,7 @@ Very difficult to mount as footprints are getting over soldering points in many 
 
 # Pictures
 ![](20200319_VCO_VCF.JPG)
-
+![](DSC_0501)
 # Schematic
 ![](SteinerVCF_RevB.png)
 # Layout
