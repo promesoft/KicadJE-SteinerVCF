@@ -22,7 +22,7 @@
 | Initial Technical Test | VCO | One pot gets -12v on chassis |
 | Initial Technical Test | VCF | One pot gets -12v on chassis |
 | Initial Technical Test | VCF SMD |  |
-| Initial Product Test |  |  |
+| Initial Product Test | VCO |  |
 | Initial Product Test | VCF |  |
 | | | CV1 and CV2 works fine |
 | | | Q is doing something |
