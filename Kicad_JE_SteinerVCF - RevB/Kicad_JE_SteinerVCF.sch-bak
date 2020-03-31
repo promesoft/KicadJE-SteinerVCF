@@ -1113,6 +1113,23 @@ $EndSheet
 Text Notes 6950 1750 0    98   ~ 20
 JE-VCO1
 Wire Wire Line
+	4250 2550 4300 2550
+Text GLabel 3750 2750 0    59   Input ~ 12
+CV
+$Comp
+L Device:R R127
+U 1 1 5C6D5FD8
+P 4075 2750
+F 0 "R127" H 4005 2704 50  0000 R CNN
+F 1 "Open" V 4075 2825 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" V 4005 2750 50  0001 C CNN
+F 3 "~" H 4075 2750 50  0001 C CNN
+	1    4075 2750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3750 2750 3925 2750
+Wire Wire Line
 	4350 2550 4650 2550
 Wire Wire Line
 	3200 6150 3200 6425
@@ -1644,6 +1661,13 @@ F 3 "~" H 2650 1100 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	4350 2425 4350 3050
+Wire Wire Line
+	4225 2750 4300 2750
+Wire Wire Line
+	4300 2750 4300 2550
+Connection ~ 4300 2550
+Wire Wire Line
+	4300 2550 4350 2550
 Text GLabel 3200 5975 1    59   Input ~ 12
 CV
 Wire Wire Line
@@ -1693,6 +1717,4 @@ F 3 "~" H 3175 2750 50  0001 C CNN
 	1    3175 2750
 	0    1    1    0   
 $EndComp
-Wire Wire Line
-	4250 2550 4350 2550
 $EndSCHEMATC
