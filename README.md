@@ -36,7 +36,9 @@
 | Quality | | |
 | Quality | | |
 | Long Term Product Test |  |  |
-| Power Draw |  | 
+| Power Draw | VCO | +12 -12
+| Power Draw | VCF | +12 8mA -12
+| Power Draw | VCF SMD | +12 mA -12
 
 ## Errata
 ### Errata - VCO
