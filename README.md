@@ -1,6 +1,6 @@
 # Johansen Engineering Steiner VCF RevB
 
-# Status - PCB  Delivered
+# Status - VCF working
 ## Initial 
 | Stage  | Detail | Status |
 | ------------- | ------------- | ------------- |
