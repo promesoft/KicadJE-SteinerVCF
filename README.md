@@ -64,6 +64,7 @@ Very difficult to mount as footprints are getting over soldering points in many 
 ![](DSC_0501)
 # Schematic
 ![](SteinerVCF_RevB.png)
+![](SteinerVCFSMD_RevB.png)
 # Layout
 
 ![](Kicad-JE-SteinerVCF-1974-TopRevB.png)
