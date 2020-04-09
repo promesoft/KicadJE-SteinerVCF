@@ -19,10 +19,10 @@
 | | | HP in the middle |
 | | | LP on top |
 | Initial Inspection | VCF SMD | OK - bottom looks empty w/o gnd fill |
-| Initial Technical Test | VCO | One pot gets -12v on chassis |
+| Initial Technical Test | VCO | SINE has PCB error - and Sine pot has +12V to chassis |
 | Initial Technical Test | VCF | One pot gets -12v on chassis |
 | Initial Technical Test | VCF SMD |  |
-| Initial Product Test | VCO |  |
+| Initial Product Test | VCO | Nice -  |
 | Initial Product Test | VCF |  |
 | | | CV1 and CV2 works fine |
 | | | Q is doing something |
@@ -42,7 +42,11 @@
 
 ## Errata
 ### Errata - VCO
-Due to footprint one of the pots gets -12v on chassis
+* Due to footprint one of the pots gets -12v on chassis
+
+* Sine signal is shorted to GND
+
+* Glide pot is reversed
 
 ### Errata - VCF
 * Due to footprint one of the pots gets -12v on chassis
