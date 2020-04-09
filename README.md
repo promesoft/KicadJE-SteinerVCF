@@ -75,6 +75,8 @@ Very difficult to mount as footprints are getting over soldering points in many 
 ![](Kicad-JE-SteinerVCF-1974-BottomRevB.png)
 # Inspiration
 
+-----------------------
+
 # Johansen Engineering Steiner VCF
 
 # Purpose
