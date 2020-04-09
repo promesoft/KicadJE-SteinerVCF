@@ -62,7 +62,12 @@
 ## Issues and Notes
 ### VCF
 Very difficult to mount as footprints are getting over soldering points in many places
+### VCO
+Remove output pots
 
+Collect jacks in the bottom
+
+Fix errors (glide,  POT, PCB errors, footprint tightened)
 # Pictures
 ![](20200319_VCO_VCF.JPG)
 ![](DSC_0501)
