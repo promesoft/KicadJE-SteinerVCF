@@ -68,8 +68,9 @@ Very difficult to mount as footprints are getting over soldering points in many 
  * Fix errors (glide,  POT, PCB errors, footprint tightened)
  * Consider removing sine shaper
 # Pictures
+![](VCO 8083 RevB.jpg)
 ![](20200319_VCO_VCF.JPG)
-![](DSC_0501)
+![](DSC_0501.jpg)
 # Schematic
 ![](SteinerVCF_RevB.png)
 ![](SteinerVCFSMD_RevB.png)
